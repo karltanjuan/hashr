@@ -1,6 +1,8 @@
 # hashr
 ### _Password hash generator_
 
+![alt text](https://github.com/TheAdnan/hashr/hashr_logo.jpg)
+
 List of all PHP hashing algorithms ([hash_algos() function](http://php.net/manual/en/function.hash-algos.php)) and their result (and hashing time) for an input string.
 
 
